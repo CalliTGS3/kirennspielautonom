@@ -1,6 +1,3 @@
-
-> Diese Seite bei [https://callitgs3.github.io/kirennspielautonom/](https://callitgs3.github.io/kirennspielautonom/) öffnen
-
 # KI Rennspiel für Calliope mini
 
 Dieses Projekt ist eine Implementierung von
@@ -15,9 +12,11 @@ Auf dem zweiten Calliope mini muss das Projekt
 
 laufen und beide Calliope müssen über den seriellen Anschluss miteinander verbunden sein (RX>->TX, TX<->RX und Masse).
 
+
 Weitere Informationen:
 
 [https://github.com/telekom/ki-in-schulen/tree/master/Calliope-Rennspiel](https://github.com/telekom/ki-in-schulen/tree/master/Calliope-Rennspiel)
+
 
 
 ## Dieses Projekt bearbeiten

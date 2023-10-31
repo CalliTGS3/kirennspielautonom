@@ -9,6 +9,12 @@ Dieses Projekt ist eine Implementierung von
 
 für zwei Calliope mini.
 
+Auf dem zweiten Calliope mini muss das Projekt 
+
+[https://github.com/CalliTGS3/kirennspielgehirn](https://github.com/CalliTGS3/kirennspielgehirn) 
+
+laufen und beide Calliope müssen über den seriellen Anschluss miteinander verbunden sein (RX>->TX, TX<->RX und Masse).
+
 Weitere Informationen:
 
 [https://github.com/telekom/ki-in-schulen/tree/master/Calliope-Rennspiel](https://github.com/telekom/ki-in-schulen/tree/master/Calliope-Rennspiel)
